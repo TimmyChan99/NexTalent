@@ -1,0 +1,1 @@
+"""NexTalent MVP backend."""
